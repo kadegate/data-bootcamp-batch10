@@ -1,2 +1,2 @@
 # data-bootcamp-batch10
-Mu data science and analytics projects
+My data science and analytics projects
